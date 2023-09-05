@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "517781732715",
+    "firebase_url": "https://aigreen-project-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aigreen-project",
+    "storage_bucket": "aigreen-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517781732715:android:b185e49ad84979df74a02e",
+        "android_client_info": {
+          "package_name": "com.example.aigreen3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517781732715-vhc2ksd6pa0k1p72muvul4uqsrudaffq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBY0Z3YATp7py1WeP2-sEOzFxtlIFlRpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517781732715-vhc2ksd6pa0k1p72muvul4uqsrudaffq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517781732715:android:45be7077e0fdfb0974a02e",
+        "android_client_info": {
+          "package_name": "com.example.aigreen4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517781732715-vhc2ksd6pa0k1p72muvul4uqsrudaffq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBY0Z3YATp7py1WeP2-sEOzFxtlIFlRpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517781732715-vhc2ksd6pa0k1p72muvul4uqsrudaffq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517781732715:android:74a5e58a98f741b474a02e",
+        "android_client_info": {
+          "package_name": "com.project.aigreen4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517781732715-vhc2ksd6pa0k1p72muvul4uqsrudaffq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBY0Z3YATp7py1WeP2-sEOzFxtlIFlRpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517781732715-vhc2ksd6pa0k1p72muvul4uqsrudaffq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
